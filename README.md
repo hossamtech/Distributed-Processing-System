@@ -42,7 +42,7 @@ Le projet vise à fournir une solution polyvalente pour le traitement distribué
 
 <img src="Screenshot_App/matrixLight.png" alt="App Screenshot" width="400"/> <img src="Screenshot_App/matrixDark.png" alt="App Screenshot" width="400"/>
 
-<img src="Screenshot_App/ImageFiltred_light.png" alt="App Screenshot" width="400"/> <img src="Screenshot_App/ImageFiltred_Dark.png" alt="App Screenshot" width="400"/>
+<img src="Screenshot_App/ImageFiltred_light.png" alt="App Screenshot" width="400"/> <img src="Screenshot_App/ImageFiltred_dark.png" alt="App Screenshot" width="400"/>
 
 ## Réalisé par
 
