@@ -1,18 +1,18 @@
-# Distributed Processing System - Matrices and Image Filtering
+# Système de Traitement Distribué - Matrices et Filtrage d'Images
 
-The project proposes a distributed processing system that efficiently handles operations on matrices and image filtering. Users submit their requests to a central server, which distributes tasks across available worker nodes. The distributed architecture ensures parallel execution of tasks, while an intuitive user interface simplifies task submission and tracking.
+Le projet propose un système de traitement distribué qui gère efficacement les opérations sur les matrices et le filtrage d'images. Les utilisateurs soumettent leurs requêtes à un serveur central, qui distribue les tâches entre les nœuds de travail disponibles. L'architecture distribuée garantit l'exécution parallèle des tâches, tandis qu'une interface utilisateur intuitive simplifie la soumission et le suivi des tâches.
 
-The project aims to provide a versatile solution for distributed data processing, adaptable to various application domains.
+Le projet vise à fournir une solution polyvalente pour le traitement distribué de données, adaptable à divers domaines d'application.
 
-## Features
+## Fonctionnalités
 
-- Submit requests for matrix processing or image filtering to the central server.
-- Distributed processing of tasks across multiple worker nodes via sockets or RMI.
-- Ability to specify additional parameters for matrix operations and image filters.
-- User-friendly graphical interface for the client, created using Swing with FlatLaf.
+- Soumettre des requêtes pour le traitement de matrices ou le filtrage d'images au serveur central.
+- Traitement distribué des tâches entre plusieurs nœuds de travail via des sockets ou RMI.
+- Possibilité de spécifier des paramètres supplémentaires pour les opérations sur les matrices et les filtres d'image.
+- Interface graphique conviviale pour le client, créée avec Swing et FlatLaf.
 
-## Interface Screenshots
+## Captures d'Écran de l'Interface
 
-<img src="Screenshot_App/matrixLight.png" alt="App Screenshot" width="400"/> <img src="Screenshot_App/matrixDark.png" alt="App Screenshot" width="400"/>
+<img src="Screenshot_App/matrixLight.png" alt="Capture d'écran de l'application" width="400"/> <img src="Screenshot_App/matrixDark.png" alt="Capture d'écran de l'application" width="400"/>
 
-<img src="Screenshot_App/ImageFiltred_light.png" alt="App Screenshot" width="400"/> <img src="Screenshot_App/ImageFiltred_dark.png" alt="App Screenshot" width="400"/>
+<img src="Screenshot_App/ImageFiltred_light.png" alt="Capture d'écran de l'application" width="400"/> <img src="Screenshot_App/ImageFiltred_dark.png" alt="Capture d'écran de l'application" width="400"/>
